@@ -7,7 +7,7 @@ This repo Includes following files:
 - #### DockerFile
     - Build Image : docker build --tag sample_app
     - To run: docker run -p 5000:5000 -d sample_app
-    - To stop: docker stop iamge_id
+    - To stop: docker stop imageid
 
 - ### Using Docker Compose
     - To run: docker compose up
